@@ -1,5 +1,4 @@
-# coursera_getdata
-Coursera Getting Data Assignment
+# Getting and Cleaning Data Assignment
 
 This is a project assignment for the Coursera course "Getting and Cleaning Data". 
 
